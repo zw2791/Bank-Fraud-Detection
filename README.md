@@ -1,3 +1,14 @@
+# Reasons and motivations:
+1. In this Internet era, credit card fraud is one of the most common economic
+crimes. Banks need to identify the customers carefully and roundly to lower
+risks, which is a tremendous task.
+2. From this analysis, we can find some characteristics with which people are
+less likely to miss payments. Therefore, banks can divide customers into
+different groups and quantify the risks.
+3. This project is in a real business scenario and can help us better understand
+banking and financial services. We can apply what we find and learn in our
+future careers when working in the finance industry.
+
 # Workflow
 <ol>
   <li>Explore and analyze data </li>
